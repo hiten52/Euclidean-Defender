@@ -65,22 +65,22 @@ canvas {
   display: flex;
 }
 
-#rec {
+#dsr {
   display: block;
   width: 1rem;
   height: 0.5rem;
 }
 
-#side-rec {
+#side-dsr {
   display: block;
   width: 0.5rem;
   height: 1rem;
 }
 
-#side-rec:hover {
+#side-dsr:hover {
   background-color: yellow;
 }
 
-#rec:hover {
+#dsr:hover {
   background-color: yellow;
 }
